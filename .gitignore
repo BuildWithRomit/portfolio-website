@@ -1,0 +1,25 @@
+# Dependencies
+frontend/node_modules/
+backend/__pycache__/
+backend/.venv/
+backend/venv/
+
+# Build output
+frontend/dist/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Claude Code
+.claude/
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
